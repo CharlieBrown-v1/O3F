@@ -1,6 +1,7 @@
 # Object-Oriented Option Framework for Robotics Manipulation in Clutter
 
-The Official Code for ["Object-Oriented Option Framework for Robotics Manipulation in Clutter"]
+The Official Code for "*Object-Oriented Option Framework for Robotics Manipulation in Clutter*"
+![](./resources/iros_2023_poster.pdf)
 
 ## Code Structure
 O3F
