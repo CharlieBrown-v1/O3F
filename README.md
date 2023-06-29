@@ -1,4 +1,19 @@
-## Object-Oriented Option Framework for Robotics Manipulation in Clutter
+# Object-Oriented Option Framework for Robotics Manipulation in Clutter
+
+The Official Code for ["Object-Oriented Option Framework for Robotics Manipulation in Clutter"]
+
+## Code Structure
+O3F
+
+    |- gym: modified gym based on our needs
+
+    |- models: directory for saving by-product models
+    
+    |- stable_baselines3: modified stable-baselines3 (sb3) based on our needs
+
+    |- train_oe.py: code for Option Executor (OE) training
+
+    |- train_op.py: code for Option Planner (OP) training
 
 ## Setup
 1. Please finish the following steps to install conda environment and related python packages
